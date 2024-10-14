@@ -44,5 +44,6 @@ AI-powered chat app for iOS
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 
 ## 🏆 GitHub Stats
-
-![Jonatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathalimax&show_icons=true&theme=vue-dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonathalimax&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
+</a>
