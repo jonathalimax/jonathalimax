@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I specialize in building robust, scalable, and use
 
 ## 💼 Featured Projects
 
-### 🧠 [Cortexia](https://github.com/dhruvsinghal/pal-chat)
+### 🧠 [Cortexia](https://github.com/jonathalimax/cortexia-app)
 AI-powered chat app for iOS
 
 - **Tech stack**: Swift, SwiftUI, TCA, SwiftData, SwiftTesting
