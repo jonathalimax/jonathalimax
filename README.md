@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I specialize in building robust, scalable, and use
 
 ## 🚀 Skills & Expertise
 
-- **iOS Development**: Swift
+### iOS | Swift
 - **Frameworks**: UIKit, SwiftUI, Combine, CoreData, CoreML
 - **Design Patterns**: MVVM-C, MVC, MVP, [The Composable Architecture (TCA)](https://github.com/pointfreeco/swift-composable-architecture)
 - **Tools**: Xcode, CocoaPods, Swift Package Manager, Git
@@ -14,6 +14,12 @@ Welcome to my GitHub profile! I specialize in building robust, scalable, and use
 - **CI/CD**: Fastlane, Jenkins
 - **Backend Integration**: REST APIs, GraphQL, Firebase
 - **Other Skills**: Agile methodologies, Code reviews, Performance Optimization
+
+### Flutter | Dart
+- **State Management**: Provider, GetX, MobX
+- **Design Patterns**: MVVM
+- **Tools**: Visual Code, Xcode, Android Studio
+- **Backend Integration**: REST APIs, Firebase
 
 ## 💼 Featured Projects
 
@@ -24,6 +30,7 @@ AI-powered chat app for iOS
 - **Key Features**: AI Chat, Offline chat history, token usage and pricing tracking, and seamless support for compatible OpenAI APIs (including [OpenRouter](https://openrouter.ai/) and [Ollama](https://ollama.com/))
 
 ## 🌱 Currently Learning
+- Flutter
 - Apple Vision Pro development
 - Next.js & Nest.js
 
