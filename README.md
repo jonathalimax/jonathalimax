@@ -34,6 +34,26 @@ AI-powered chat app for iOS
 - **Tech stack**: Swift, SwiftUI, TCA, SwiftData, SwiftTesting
 - **Key Features**: AI Chat, Offline chat history, token usage and pricing tracking, and seamless support for compatible OpenAI APIs (including [OpenRouter](https://openrouter.ai/) and [Ollama](https://ollama.com/))
 
+### 🗡️ [Sword Health](https://apps.apple.com/us/app/sword-health/id1468523447)
+The world’s first platform to predict, prevent and treat pain
+
+- **Tech stack**: Swift, SwiftUI, TCA, CoreData
+- **Key Features**: 
+  - Personalized digital physical therapy from the comfort of home
+  - Next generation of women’s pelvic health care
+  - 24/7 access to care from Clinical Pain Specialists
+  - The highest quality physical health education and resources
+  - The first AI engine built to detect and avoid costs of unnecessary procedures and surgeries
+
+### 🗞️ [G1](https://apps.apple.com/br/app/g1-portal-de-not%C3%ADcias-da-globo/id413333281)
+Real-time information and alerts about what matters
+
+- **Tech stack**: Swift, UIKit, MVVM, CoreData
+- **Key Features**: 
+  - Stay informed and discover hundreds of articles, blogs, videos, and podcasts.
+  - Search & Save articles
+  - Podcasts
+
 ## 🌱 Currently Learning
 - Apple Vision Pro development
 - Docker, Terraform
