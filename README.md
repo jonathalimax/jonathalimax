@@ -55,9 +55,9 @@ Real-time information and alerts about what matters
   - Podcasts
 
 ## 🌱 Currently Learning
-- Apple Vision Pro development
-- Docker, Terraform
+- Artificial Inteligence (Agents, Skills, CLI)
 - SwiftUI Performance
+- Computer Vision
 
 ## 📫 Get in Touch
 
@@ -85,9 +85,7 @@ Real-time information and alerts about what matters
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00B140?style=for-the-badge&logo=fastlane&logoColor=white)
 
-<!--
 ## 🏆 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonathalimax&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
 </a>
--->
